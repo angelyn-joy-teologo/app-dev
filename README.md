@@ -8,8 +8,8 @@ My Favorite movie is **Spirited Away** because it is a beautiful, magical story 
 2.Haku
 3.Yubaba
 
-![Sprited Away image](<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8e88d959-b7e8-431a-a20c-192dcf25ce97" />)
+![Sprited Away image](https://m.media-amazon.com/images/M/MV5BNzQ0OTcwNDY3MF5BMl5BanBnXkFtZTgwODc1MTMyMDE@._V1_QL75_UX351_.jpg)
 
-![Sprited Away image](<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/57686291-3288-475a-949f-8e6ba51316db" />)
+![Sprited Away image](https://m.media-amazon.com/images/M/MV5BODM2OTgyOTY1OV5BMl5BanBnXkFtZTgwOTY1MTMyMDE@._V1_QL75_UX417_.jpg)
 
 
